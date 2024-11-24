@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         n1View = findViewById(R.id.num1View);
-        n2View = findViewById(R.id.num2View); 
+        n2View = findViewById(R.id.num2View);
         resView = findViewById(R.id.resultView);
         bAdd = findViewById(R.id.addButton);
         bSub = findViewById(R.id.subtractButton);
